@@ -2,8 +2,10 @@
 - android-lab2_18089811_MaiKienCuong
 ```
 
-![alt text](https://github.com/MaiKienCuong/android-lab2_18089811_MaiKienCuong/blob/main/hinh_anh_ket_qua/2a.png?raw=true)
+![alt text](https://github.com/MaiKienCuong/android-lab2_18089811_MaiKienCuong/blob/main/ANH1.PNG?raw=true)
 
-![alt text](https://github.com/MaiKienCuong/android-lab2_18089811_MaiKienCuong/blob/main/hinh_anh_ket_qua/2b.png?raw=true)
+![alt text](https://github.com/MaiKienCuong/android-lab2_18089811_MaiKienCuong/blob/main/ANH2.PNG?raw=true)
 
-![alt text](https://github.com/MaiKienCuong/android-lab2_18089811_MaiKienCuong/blob/main/hinh_anh_ket_qua/2d.png?raw=true)
+![alt text](https://github.com/MaiKienCuong/android-lab2_18089811_MaiKienCuong/blob/main/ANH3.PNG?raw=true)
+
+![alt text](https://github.com/MaiKienCuong/android-lab2_18089811_MaiKienCuong/blob/main/ANH4.PNG?raw=true)
